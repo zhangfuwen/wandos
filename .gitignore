@@ -1,0 +1,18 @@
+# Build directory
+build/
+cmake-build-debug/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*~
+*.img
+
+# Compiled files
+*.o
+*.bin
+*.iso
+
+# Log files
+*.log
