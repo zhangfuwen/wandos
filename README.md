@@ -1,6 +1,8 @@
-# Custom Kernel
+# Wand OS / 法杖操作系统
 
-一个基于x86架构的简单操作系统内核项目，实现了基本的内存管理、进程管理、文件系统等核心功能。
+<img src="doc/assets/wandos_1.png" align="left" height="300" width="300" ></img>
+
+一个操作系统项目，实现了基本的内存管理、进程管理、文件系统等核心功能。
 
 ## 项目特点
 
